@@ -1,0 +1,28 @@
+{
+  "name": "goit-node-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IraTokar/goit-node-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IraTokar/goit-node-cli/issues"
+  },
+  "homepage": "https://github.com/IraTokar/goit-node-cli#readme",
+  "dependencies": {
+    "commander": "^13.0.0",
+    "nanoid": "^3.3.4",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
